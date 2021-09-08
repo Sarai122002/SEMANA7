@@ -1,0 +1,10 @@
+C:\SEMANA7\Practica07\Practica07\bin\Debug\Practica07.exe.config
+C:\SEMANA7\Practica07\Practica07\bin\Debug\Practica07.exe
+C:\SEMANA7\Practica07\Practica07\bin\Debug\Practica07.pdb
+C:\SEMANA7\Practica07\Practica07\obj\Debug\Practica07.csprojAssemblyReference.cache
+C:\SEMANA7\Practica07\Practica07\obj\Debug\Practica07.Form1.resources
+C:\SEMANA7\Practica07\Practica07\obj\Debug\Practica07.Properties.Resources.resources
+C:\SEMANA7\Practica07\Practica07\obj\Debug\Practica07.csproj.GenerateResource.cache
+C:\SEMANA7\Practica07\Practica07\obj\Debug\Practica07.csproj.CoreCompileInputs.cache
+C:\SEMANA7\Practica07\Practica07\obj\Debug\Practica07.exe
+C:\SEMANA7\Practica07\Practica07\obj\Debug\Practica07.pdb
